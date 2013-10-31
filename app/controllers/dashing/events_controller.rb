@@ -17,7 +17,7 @@ module Dashing
     rescue IOError
       logger.info "[Dashing][#{Time.now.utc.to_s}] Stream closed"
     ensure
-      @redis.quit
+      #@redis.quit
       response.stream.close
     end
 
