@@ -2,92 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/mailers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/assets/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controllers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/helpers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/mailers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/models/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/dashing/application-59b17bb05be0f9b59397116512359329.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/dashing/application-c49f44d550212f4f977c454119c27616.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-f084ab5293d16ba1e4bb664259fbb20b.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-f1a14051f17824976271b9c0460232f0.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/dashing/fontawesome-webfont-a46a967553f660760feb51348275a6ff.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/dashing/fontawesome-webfont-d481eb5d84f802eb80f8ec3cbe559f7e.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/dashing/fontawesome-webfont-e92653e06d875bf17876ee5da7f972b8.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20130904205314_devise_create_users.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/422.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/dashing/application-59b17bb05be0f9b59397116512359329.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/dashing/application-c49f44d550212f4f977c454119c27616.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-f084ab5293d16ba1e4bb664259fbb20b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-f1a14051f17824976271b9c0460232f0.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/boot.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.ru" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dashing-rails-static.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/dashing.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/database_connection.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/locales/devise.en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/devise.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/dashing/fontawesome-webfont-c80d5456fd9f2e6a61ad18865e56ad4c.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/dashing/widgets/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/dashing/widgets/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/manifest-4b67d833804bbc3d74661271959403a6.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rails" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/dashing/dashboards/sample.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jobs/sample.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/seeds.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/session_store.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/user.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/models/user_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/users.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dashing-rails-static.iml" afterPath="$PROJECT_DIR$/.idea/dashing-rails-static.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dashing/version.rb" afterPath="$PROJECT_DIR$/lib/dashing/version.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dashing-rails-static.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -105,7 +22,7 @@
     <file path="/dashboards_controller.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383302980581" ignored="false" />
     <file path="/application_controller.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383302986544" ignored="false" />
     <file path="$USER_HOME$/OndigoServer/memio/app/views/dashing/dashboards/sample.html.erb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383455564345" ignored="false" />
-    <file path="/Gemfile" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383466614441" ignored="false" />
+    <file path="/Gemfile" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383510221008" ignored="false" />
     <file path="$USER_HOME$/OndigoServer/memio/config/application.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383466449124" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/rubymine.jar!/resources/relaxng.rng" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383464438925" ignored="false" />
     <file path="$USER_HOME$/OndigoServer/memio/config/initializers/active_admin.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383465948421" ignored="false" />
@@ -126,11 +43,15 @@
     <file path="$USER_HOME$/RubymineProjects/ONDiGO/app/models/user.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383470555275" ignored="false" />
     <file path="$USER_HOME$/RubymineProjects/ONDiGO/app/controllers/users_controller.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383470531787" ignored="false" />
     <file path="/users_controller.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383470508076" ignored="false" />
-    <file path="$USER_HOME$/OndigoSrverRails4/memio/Gemfile" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383485641741" ignored="false" />
+    <file path="$USER_HOME$/OndigoSrverRails4/memio/Gemfile" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383510230781" ignored="false" />
     <file path="/configuration.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383485904981" ignored="false" />
-    <file path="$USER_HOME$/OndigoSrverRails4/memio/config/routes.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383486150199" ignored="false" />
-    <file path="$USER_HOME$/OndigoSrverRails4/memio/config/initializers/dashing.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383486303661" ignored="false" />
+    <file path="$USER_HOME$/OndigoSrverRails4/memio/config/routes.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383510155011" ignored="false" />
+    <file path="$USER_HOME$/OndigoSrverRails4/memio/config/initializers/dashing.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383496008182" ignored="false" />
     <file path="/dashing.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383486299895" ignored="false" />
+    <file path="$USER_HOME$/OndigoSrverRails4/memio/Gemfile.lock" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383510155011" ignored="false" />
+    <file path="$USER_HOME$/.rvm/gems/ruby-2.0.0-p247/gems/activesupport-4.0.1/lib/active_support/dependencies.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383509938708" ignored="false" />
+    <file path="$USER_HOME$/.rvm/gems/ruby-2.0.0-p247/gems/activesupport-4.0.1/lib/active_support/xml_mini/jdom.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383509938708" ignored="false" />
+    <file path="$USER_HOME$/.rvm/gems/ruby-2.0.0-p247/gems/railties-4.0.1/lib/rails.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383509938708" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,10 +98,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="version.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="engine.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/dashing/engine.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="version.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/dashing/version.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="18" selection-start="33" selection-end="33" vertical-scroll-proportion="0.023041476">
+            <state line="1" column="18" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -670,20 +600,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p247/bundler/gems/dashing-rails-static-038427407bc8/lib/dashing/version.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dashing/engine.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -698,6 +614,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dashing/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="18" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dashing_rails_static.gemspec">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="33" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
@@ -705,9 +628,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dashing/version.rb">
+    <entry file="file://$PROJECT_DIR$/lib/dashing/engine.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="33" selection-end="33" vertical-scroll-proportion="0.023041476">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
