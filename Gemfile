@@ -1,45 +1,21 @@
 source 'https://rubygems.org'
-ruby '1.9.3'
 
-# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.0.0'
-gem 'railties', '>= 4.0.0'
+# Declare your gem's dependencies in dashing.gemspec.
+# Bundler will treat runtime dependencies like base dependencies, and
+# development dependencies will be added by default to the :development group.
+gemspec
 
-# Use SCSS for stylesheets
-gem 'sass-rails', '~> 4.0.0'
+# Declare any dependencies that are still in development here instead of in
+# your gemspec. These might include edge Rails or gems from your path or
+# Git. Remember to move these dependencies to your gemspec before releasing
+# your gem to rubygems.org.
 
-# Use Uglifier as compressor for JavaScript assets
-gem 'uglifier', '>= 1.3.0'
+gem 'sqlite3'
+gem 'jquery-rails', '~> 3.0'
 
-# Use CoffeeScript for .js.coffee assets and views
-gem 'coffee-rails', '~> 4.0.0'
-
-# See https://github.com/sstephenson/execjs#readme for more supported runtimes
-# gem 'therubyracer', platforms: :ruby
-
-# Use jquery as the JavaScript library
-gem 'jquery-rails'
-
-# Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
-gem 'turbolinks'
-
-# Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
-gem 'jbuilder', '~> 1.2'
-
-group :doc do
-  # bundle exec rake doc:rails generates the API under doc/api.
-  gem 'sdoc', require: false
+group :test do
+  gem 'coveralls',  require: false
+  gem 'simplecov',  require: false
+  gem 'rspec-rails', '~> 2.14'
+  gem 'pry-rails',   '~> 0.3'
 end
-
-group :production do
-  gem 'pg'
-end
-
-group :development do
-  gem 'sqlite3'
-end
-
-gem 'dashing-rails'
-gem 'puma'
-gem 'devise'
-gem 'pry'

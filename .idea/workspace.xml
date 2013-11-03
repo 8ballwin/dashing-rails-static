@@ -2,8 +2,156 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/fonts/dashing/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/fonts/dashing/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/fonts/dashing/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/fonts/dashing/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/javascripts/dashing/dashing-src.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/dashing/dashing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/concerns/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/jobs/sample.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/mailers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models/concerns/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/dashboards/sample.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/clock/clock.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/clock/clock.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/clock/clock.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/comments/comments.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/comments/comments.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/comments/comments.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/graph/graph.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/graph/graph.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/graph/graph.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/iframe/iframe.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/iframe/iframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/iframe/iframe.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/image/image.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/image/image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/image/image.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/list/list.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/list/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/list/list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/meter/meter.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/meter/meter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/meter/meter.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/number/number.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/number/number.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/number/number.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/text/text.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/text/text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/default_widgets/text/text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/widgets/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/dashing/widgets/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/bundle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/rake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config.ru" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/application.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/boot.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environment.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments/development.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments/test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/dashing.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/database_connection.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/devise.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/inflections.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/mime_types.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/session_store.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/locales/devise.en.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/locales/en.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashing_rails_static.gemspec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db/migrate/20130904205314_devise_create_users.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db/seeds.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/javascripts/batman.jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/javascripts/batman.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/javascripts/d3-3.2.8.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/javascripts/es5-shim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/javascripts/jquery.gridster.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/javascripts/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/javascripts/jquery.knob.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/javascripts/jquery.leanModal.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/javascripts/jquery.timeago.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/javascripts/moment.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/javascripts/rickshaw-1.4.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/stylesheets/jquery.gridster.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tasks/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projectFilesBackup/.idea/dashing-rails-static.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/422.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/500.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-f084ab5293d16ba1e4bb664259fbb20b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-f084ab5293d16ba1e4bb664259fbb20b.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-f1a14051f17824976271b9c0460232f0.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-f1a14051f17824976271b9c0460232f0.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/dashing/application-59b17bb05be0f9b59397116512359329.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/dashing/application-59b17bb05be0f9b59397116512359329.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/dashing/application-c49f44d550212f4f977c454119c27616.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/dashing/application-c49f44d550212f4f977c454119c27616.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/dashing/fontawesome-webfont-a46a967553f660760feb51348275a6ff.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/dashing/fontawesome-webfont-c80d5456fd9f2e6a61ad18865e56ad4c.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/dashing/fontawesome-webfont-d481eb5d84f802eb80f8ec3cbe559f7e.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/dashing/fontawesome-webfont-e92653e06d875bf17876ee5da7f972b8.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/manifest-4b67d833804bbc3d74661271959403a6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/dummy/app/views/dashing/widgets/foo/foo.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/dummy/app/views/dashing/widgets/foo/foo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/dummy/app/views/dashing/widgets/foo/foo.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/dummy/log/test.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/controllers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/fixtures/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/fixtures/users.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/helpers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/integration/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/mailers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/models/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/models/user_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/test_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/dashing/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/dashing/application.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/dashing/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/dashing/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/dashing/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/dashing/application_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dashing/configuration.rb" afterPath="$PROJECT_DIR$/lib/dashing/configuration.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/lib/dashing/configuration_spec.rb" afterPath="$PROJECT_DIR$/spec/lib/dashing/configuration_spec.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/dashing/dashboards_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/dashing/dashboards_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dashing-rails-static.iml" afterPath="$PROJECT_DIR$/.idea/dashing-rails-static.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dashing.rb" afterPath="$PROJECT_DIR$/lib/dashing.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/lib/dashing_spec.rb" afterPath="$PROJECT_DIR$/spec/lib/dashing_spec.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dashing/engine.rb" afterPath="$PROJECT_DIR$/lib/dashing/engine.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/dashing/events_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/dashing/events_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/generators/templates/initializer.rb" afterPath="$PROJECT_DIR$/lib/generators/templates/initializer.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/generators/dashing/install_generator.rb" afterPath="$PROJECT_DIR$/lib/generators/dashing/install_generator.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/rails" afterPath="$PROJECT_DIR$/bin/rails" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/dummy/config/routes.rb" afterPath="$PROJECT_DIR$/spec/dummy/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/generators/templates/dashboards/sample.html.erb" afterPath="$PROJECT_DIR$/lib/generators/templates/dashboards/sample.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dashing/version.rb" afterPath="$PROJECT_DIR$/lib/dashing/version.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/dashing/widgets_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/dashing/widgets_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dashing-rails-static.iws" />
@@ -48,10 +196,11 @@
     <file path="$USER_HOME$/OndigoSrverRails4/memio/config/routes.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383510155011" ignored="false" />
     <file path="$USER_HOME$/OndigoSrverRails4/memio/config/initializers/dashing.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383496008182" ignored="false" />
     <file path="/dashing.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383486299895" ignored="false" />
-    <file path="$USER_HOME$/OndigoSrverRails4/memio/Gemfile.lock" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383510155011" ignored="false" />
+    <file path="$USER_HOME$/OndigoSrverRails4/memio/Gemfile.lock" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383510353179" ignored="false" />
     <file path="$USER_HOME$/.rvm/gems/ruby-2.0.0-p247/gems/activesupport-4.0.1/lib/active_support/dependencies.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383509938708" ignored="false" />
     <file path="$USER_HOME$/.rvm/gems/ruby-2.0.0-p247/gems/activesupport-4.0.1/lib/active_support/xml_mini/jdom.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383509938708" ignored="false" />
     <file path="$USER_HOME$/.rvm/gems/ruby-2.0.0-p247/gems/railties-4.0.1/lib/rails.rb" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383509938708" ignored="false" />
+    <file path="/dashing.gemspec" changelist="42a6eca4-f3ca-4415-88c4-7f3ed422b73a" time="1383510837942" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,28 +229,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configuration.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="configuration.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/dashing/configuration.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="17" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
+            <state line="44" column="5" selection-start="1357" selection-end="1357" vertical-scroll-proportion="0.9447005">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dashing_rails_static.gemspec" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dashing_rails_static.gemspec">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="33" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="engine.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/dashing/engine.rb">
+      <file leaf-file-name=".rspec" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.rspec">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashing.gemspec" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashing.gemspec">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="23" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashing.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dashing.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="engine.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dashing/engine.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="0" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -144,8 +311,9 @@
         <option value="$PROJECT_DIR$/app/controllers/dashing/dashboards_controller.rb" />
         <option value="$USER_HOME$/.rvm/gems/ruby-2.0.0-p247/bundler/gems/dashing-rails-static-038427407bc8/lib/dashing/version.rb" />
         <option value="$PROJECT_DIR$/dashing_rails_static.gemspec" />
-        <option value="$PROJECT_DIR$/lib/dashing/configuration.rb" />
         <option value="$PROJECT_DIR$/lib/dashing/version.rb" />
+        <option value="$PROJECT_DIR$/lib/dashing/configuration.rb" />
+        <option value="$PROJECT_DIR$/dashing.gemspec" />
       </list>
     </option>
   </component>
@@ -586,30 +754,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dashing.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/dashing-rails.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dashing/configuration.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="17" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -621,16 +768,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dashing_rails_static.gemspec">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="33" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.rspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashing.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="23" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dashing.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/dashing/engine.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="17" column="0" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dashing/configuration.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="5" selection-start="1357" selection-end="1357" vertical-scroll-proportion="0.9447005">
           <folding />
         </state>
       </provider>
