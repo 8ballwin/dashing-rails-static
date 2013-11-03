@@ -1,6 +1,3 @@
-require 'rufus-scheduler'
-require 'redis'
-require 'connection_pool'
 
 module Dashing
   class Configuration
@@ -12,7 +9,7 @@ module Dashing
                   :redis_host, :redis_port, :redis_password
 
     def initialize
-      @scheduler              = ::Rufus::Scheduler.new
+      @scheduler              = nil
       @redis_host             = '127.0.0.1'
       @redis_port             = '6379'
       @redis_password         = nil
@@ -34,12 +31,5 @@ module Dashing
 
     private
 
-    def request_thread_count
-      if defined?(::Puma) && ::Puma.respond_to?(:cli_config)
-        ::Puma.cli_config.options.fetch(:max_threads, 5).to_i
-      else
-        5
-      end
-    end
   end
 end
